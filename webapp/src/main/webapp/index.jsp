@@ -5,8 +5,8 @@
     <hr>
     <br>
 
-    <label for="email"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="email" id="email" required>
+    <label for="email"><b> My Name</b></label>
+    <input type="text" placeholder="Enter My  Name" name="email" id="email" required>
     <br>
 
     <label for="email"><b>Email</b></label>
