@@ -10,7 +10,7 @@
     <br>
     
 
-    <label for="new email"><b>Email</b></label>
+    <label for="new email"><b>New Email</b></label>
     <input type="text" placeholder="Enter New  Email" name="new email" id="new email" required>
     <br>
 
