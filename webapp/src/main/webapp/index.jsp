@@ -12,6 +12,10 @@
     <label for="email"><b> Brother Name</b></label>
     <input type="text" placeholder="Enter Brother  Name" name="email" id="email" required>
     <br>
+    
+    <label for="email"><b> Father Name</b></label>
+    <input type="text" placeholder="Enter Father  Name" name="email" id="email" required>
+    <br>
 
 
     <label for="email"><b>My Email</b></label>
